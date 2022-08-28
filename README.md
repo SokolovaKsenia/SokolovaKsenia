@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SokolovaKsenia
+- 👀 I’m interested in AQA, FrontEnd
+- 🌱 I’m currently learning Java, Python, Selenium
+- 💞️ I’m looking to collaborate on AQA projects
+- 📫 You can reach me via email ksenabox@gmail.com or LinkedIn www.linkedin.com/in/kseniia-sokolova-ks
